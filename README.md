@@ -75,6 +75,21 @@ This internship focuses on strengthening my frontend fundamentals and understand
 - Broke the webpage into reusable UI components
 - Sketched the layout to understand component-based design
 
+### ✅ Assignment 10 – Weather Dashboard
+Developed a React dashboard to display weather information
+Fetched real-time data from a public weather API
+Handled loading states and error messages while retrieving data
+
+### ✅ Assignment 11 – Mood Tracker
+Built a React application to track user moods
+Used React hooks (useState) to manage application state
+Updated the UI dynamically when users selected a mood
+
+### ✅ Assignment 12 – Dynamic List App
+Created a task management app using React hooks
+Implemented functionality to add and delete tasks dynamically
+Managed task lists using React state and user input
+
 ---
 
 ## 🎯 Key Learning Outcomes
