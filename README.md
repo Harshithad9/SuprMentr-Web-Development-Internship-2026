@@ -96,9 +96,9 @@ This internship focuses on strengthening my frontend fundamentals and understand
 - Enabled navigation between pages without refreshing the browser
 
 ### ✅ Assignment 14 – Smart Signup Form
-Developed a signup form with input validations
-Implemented email format validation and password strength checks
-Displayed dynamic error messages and success feedback for user inputs
+- Developed a signup form with input validations
+- Implemented email format validation and password strength checks
+- Displayed dynamic error messages and success feedback for user inputs
 
 ---
 
