@@ -10,7 +10,7 @@ This repository contains all assignments and practical implementations completed
 
 ## 👩‍💻 About Me
 
-**Harshitha D**
+    ***Harshitha D***
 - Final Year – Computer Science & Engineering
 - Aspiring Software Developer | Web Development Enthusiast
 
