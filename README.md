@@ -106,14 +106,14 @@ This internship focuses on strengthening my frontend fundamentals and understand
 - Handled common file operation issues like data retrieval delays
 
 ### ✅ Assignment 16 – Product Listing UI
-Built a mini e-commerce frontend with product cards
-Implemented category-based filtering functionality
-Designed responsive UI using HTML, CSS, and JavaScript
+- Built a mini e-commerce frontend with product cards
+- Implemented category-based filtering functionality
+- Designed responsive UI using HTML, CSS, and JavaScript
 
 ### ✅ Assignment 17 – Hello Server
-Created a basic Node.js server using HTTP module
-Implemented multiple routes with different responses
-Handled unknown routes with a 404 message
+- Created a basic Node.js server using HTTP module
+- Implemented multiple routes with different responses
+- Handled unknown routes with a 404 message
 ---
 
 ## 🎯 Key Learning Outcomes
