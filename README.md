@@ -4,15 +4,15 @@
 
 Welcome to my **8th Semester Web Development Internship Repository**.
 
-This repository contains all assignments and practical implementations completed during my internship as part of my **Computer Science & Engineering** degree.
+This repository contains all assignments and practical implementations completed during my internship as part of my **Information Science & Engineering** degree.
 
 ---
 
 ## 👩‍💻 About Me
 
 **Harshitha D**
-Final Year – Computer Science & Engineering
-Aspiring Software Developer | Web Development Enthusiast
+- Final Year – Computer Science & Engineering
+- Aspiring Software Developer | Web Development Enthusiast
 
 This internship focuses on strengthening my **frontend fundamentals** and understanding **core web development concepts**.
 
