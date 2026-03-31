@@ -187,6 +187,8 @@ Through this internship, I have:
 
 ## 🚀 Future Enhancements
 
+
+
 * Build full-stack applications (MERN)
 * Improve UI/UX design
 * Deploy projects (Vercel / Netlify)
