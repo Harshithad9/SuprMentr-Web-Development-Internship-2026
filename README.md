@@ -66,6 +66,8 @@ This internship focuses on strengthening my **frontend fundamentals** and unders
 
 ---
 
+
+
 ### ⚙️ JavaScript
 
 #### ✅ Assignment 6 – Console Challenge
