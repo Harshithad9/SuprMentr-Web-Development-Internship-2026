@@ -1,49 +1,19 @@
-# 📘 Assignment (12/03/2026)
+# Assignment (11/03/2026)
 
-## Assignment Name
+## Assignment Name: Multi-Page App
 
-Smart Signup Form
+### Description
 
-## Description
-
-The Smart Signup Form validates user inputs such as email format and password strength before allowing submission. The form displays appropriate error messages when inputs are invalid and shows success feedback when all fields are valid.
+This assignment focuses on converting a React app into a multi-page SPA using routing.
 
 ---
 
 ## Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript
+* React Router
 
 ---
 
-## Features
+## Learning Outcome
 
-* Name validation
-* Email format validation
-* Password strength validation
-* Dynamic error messages
-* Success message on valid input
-
----
-
-## Project Structure
-
-```
-Assignment-14-Smart-Signup-Form
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
----
-
-## Learning Outcomes
-
-* Form validation using JavaScript
-* Regular expressions for email validation
-* Handling form submission events
-* Improving user input validation and feedback
+I learned how navigation works in modern web applications.

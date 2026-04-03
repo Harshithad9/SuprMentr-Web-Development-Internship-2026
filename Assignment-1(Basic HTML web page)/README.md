@@ -1,11 +1,11 @@
-# 💼 Resume Web Page
+# Resume Web Page
 
 This project is a basic HTML web page that represents my Resume / CV.  
 It is created using only HTML to demonstrate understanding of core web development concepts.
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 The Resume Web Page includes:
 

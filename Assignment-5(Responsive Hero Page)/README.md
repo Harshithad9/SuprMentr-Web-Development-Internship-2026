@@ -1,35 +1,28 @@
-# 📘 Assignment (21/02/2026)
+# Assignment (21/02/2026)
 
-## 🚀 Assignment Name: Responsive Hero Page
+## Assignment Name: Responsive Hero Page
 
-### 📌 Description
-Built a responsive landing section using Flexbox that adapts to different screen sizes.
+### Description
 
----
-
-## 🛠️ Technologies Used
-- HTML5
-- CSS3 (Flexbox & Media Queries)
+This assignment involves building a responsive landing section using Flexbox that adapts to different screen sizes.
 
 ---
 
-## ✨ Features Implemented
-- Flexbox layout
-- Responsive design using media queries
-- Gradient background
-- Call-to-action button
-- Mobile-friendly layout
+## Technologies Used
+
+* HTML5
+* CSS3
 
 ---
 
-## 📱 Responsiveness
-- Desktop: Side-by-side layout
-- Mobile: Stacked vertical layout
+## Features Implemented
+
+* Responsive layout using Flexbox
+* Mobile-friendly design
+* Proper alignment and spacing
 
 ---
 
-## 🎯 Learning Outcome
-- Understanding Flexbox
-- Creating responsive layouts
-- Using media queries
-- Improving UI structure
+## Learning Outcome
+
+I learned how to build responsive layouts and ensure that web pages adapt properly across devices.

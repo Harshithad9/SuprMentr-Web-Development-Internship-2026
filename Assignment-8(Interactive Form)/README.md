@@ -1,44 +1,29 @@
-# 📘 Assignment (02/03/2026)
+# Assignment (02/03/2026)
 
-## 📝 Assignment Name: Interactive Form
+## Assignment Name: Interactive Form
 
-### 📌 Description
-This assignment involves creating an interactive form that validates user input using JavaScript and displays appropriate success or error messages.
+### Description
 
----
-
-## 🛠 Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+This assignment focuses on building a form with input validation and dynamic feedback.
 
 ---
 
-## ✨ Features Implemented
+## Technologies Used
 
-- User input form
-- Input validation using JavaScript
-- Error messages for invalid inputs
-- Success message after valid submission
-- Styled form layout
+* HTML5
+* CSS3
+* JavaScript
 
 ---
 
-## 📂 Files Included
+## Features Implemented
 
-- index.html
-- style.css
-- script.js
-- README.md
+* Input validation
+* Error and success messages
+* User-friendly interaction
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcome
 
-Through this assignment, I learned:
-
-- How to build HTML forms
-- JavaScript form validation
-- Handling user input
-- Displaying dynamic error and success messages
-- Improving user experience with interactive forms
+I learned how to validate user input and improve user experience using JavaScript.
