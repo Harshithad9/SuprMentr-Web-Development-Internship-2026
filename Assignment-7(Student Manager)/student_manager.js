@@ -1,7 +1,7 @@
 // Array of student objects
 let students = [
     {
-        name: "Rahul",
+        name: "Harshitha",
         marks: [85, 90, 78]
     },
     {
@@ -9,7 +9,7 @@ let students = [
         marks: [92, 88, 95]
     },
     {
-        name: "Amit",
+        name: "Rakshith",
         marks: [70, 75, 80]
     }
 ];

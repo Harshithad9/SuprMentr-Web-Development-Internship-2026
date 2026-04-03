@@ -1,8 +1,8 @@
 const products = [
-    { name: "Laptop", category: "electronics", price: 60000, image: "https://via.placeholder.com/200" },
-    { name: "Phone", category: "electronics", price: 30000, image: "https://via.placeholder.com/200" },
-    { name: "T-Shirt", category: "clothing", price: 800, image: "https://via.placeholder.com/200" },
-    { name: "Jeans", category: "clothing", price: 1500, image: "https://via.placeholder.com/200" }
+    { name: "Laptop", category: "electronics", price: 60000, image: "" },
+    { name: "Phone", category: "electronics", price: 30000, image: "" },
+    { name: "T-Shirt", category: "clothing", price: 800, image: "" },
+    { name: "Jeans", category: "clothing", price: 1500, image: "" }
 ];
 
 function displayProducts(items) {

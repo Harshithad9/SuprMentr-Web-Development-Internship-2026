@@ -1,8 +1,8 @@
-// Taking input from user
+// input from user
 let num1 = parseFloat(prompt("Enter first number:"));
 let num2 = parseFloat(prompt("Enter second number:"));
 
-// Addition
+// Add
 function add(a, b) {
     return a + b;
 }
