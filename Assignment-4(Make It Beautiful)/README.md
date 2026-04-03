@@ -1,35 +1,28 @@
-# 📘 Assignment (17/02/2026)
+# Assignment (17/02/2026)
 
-## 🎨 Assignment Name: Make It Beautiful
+## Assignment Name: Make It Beautiful
 
-### 📌 Description
-This assignment focuses on styling a previously created personal profile webpage using CSS.
+### Description
 
----
-
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
+This assignment focuses on styling a previously created webpage using CSS to improve its visual appearance.
 
 ---
 
-## ✨ Styling Features Added
+## Technologies Used
 
-- Background color
-- Custom fonts
-- Box shadow
-- Rounded corners
-- Image border styling
-- Hover effects on links
-- Proper spacing using margin and padding
+* HTML5
+* CSS3
 
 ---
 
-## 🎯 Learning Outcome
+## Features Implemented
 
-Through this assignment, I learned:
+* Applied colors and fonts
+* Added borders and spacing
+* Improved layout using box model
 
-- How to link external CSS
-- How to apply colors and fonts
-- How to style elements using borders and spacing
-- How to improve webpage appearance using CSS
+---
+
+## Learning Outcome
+
+I learned how to enhance the visual appearance of a webpage using CSS and how styling impacts user experience.
