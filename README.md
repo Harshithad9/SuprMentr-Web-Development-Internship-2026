@@ -9,7 +9,7 @@ This repository contains all assignments and practical work completed during my 
 ## About Me
 
 **Harshitha D**
-- Final Year – Computer Science & Engineering
+- Final Year – Information Science & Engineering
 - Aspiring Software Developer with an interest in Web Development
 
 ---
