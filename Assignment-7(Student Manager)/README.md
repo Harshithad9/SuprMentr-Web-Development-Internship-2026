@@ -1,66 +1,27 @@
-# 📘 Assignment (28/02/2026)
+# Assignment (28/02/2026)
 
-## 🎓 Assignment Name: Student Manager
+## Assignment Name: Student Manager
 
-### 📌 Description
+### Description
 
-The **Student Manager** assignment focuses on using **JavaScript arrays and objects** to store and manage student information. The program stores student names and their marks, then calculates the **average marks** for each student.
-
-This assignment helps in understanding how JavaScript data structures can be used to organize and process data efficiently.
+This assignment involves managing student data using arrays and objects and calculating average marks.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-* JavaScript (ES6)
-* Browser Console / JavaScript Runtime
-
----
-
-## ✨ Features Implemented
-
-* Store multiple students using **arrays**
-* Use **objects** to represent each student
-* Store marks for different subjects
-* Calculate **average marks**
-* Display results using `console.log()`
+* JavaScript
 
 ---
 
-## 💻 Program Concept
+## Features Implemented
 
-The program follows these steps:
-
-1. Create an array to store student records.
-2. Each student is represented as an object containing:
-
-   * Student name
-   * Marks array
-3. Loop through the marks to calculate the average.
-4. Display the student's name and average marks in the console.
+* Stored student data
+* Calculated averages
+* Displayed results
 
 ---
 
-## 🚀 How to Run
+## Learning Outcome
 
-1. Open a browser (Chrome / Edge recommended).
-2. Right-click on the page → **Inspect**.
-3. Go to the **Console** tab.
-4. Paste the JavaScript code.
-5. Press **Enter** to execute the program.
-
----
-
-## 🎯 Learning Outcomes
-
-Through this assignment, I learned:
-
-* How to use **arrays in JavaScript**
-* How to create and work with **objects**
-* Iterating through arrays using loops
-* Performing calculations on stored data
-* Writing structured JavaScript programs
-
----
-
-⭐ This assignment strengthened my understanding of JavaScript data structures such as arrays and objects.
+I learned how to work with arrays and objects and apply logic to process and analyze data.
