@@ -1,60 +1,28 @@
-# 📘 Assignment (12/02/2026)
+# Assignment (09/02/2026)
 
-## 🌐 Assignment Name: My First Website
+## Assignment Name: Basic HTML Web Page
 
-### 📌 Description
-This assignment involves creating a personal profile webpage using basic HTML elements such as headings, images, links, and lists.
+### Description
 
-The goal of this assignment is to understand the structure of a simple web page and practice fundamental HTML concepts.
-
----
-
-## 🛠️ Technologies Used
-- HTML5
+This assignment involves creating a resume webpage using HTML. It focuses on structuring content properly using different HTML elements.
 
 ---
 
-## ✨ Features Implemented
+## Technologies Used
 
-- ✅ Main Heading (Name & Title)
-- ✅ Profile Image
-- ✅ About Me Section
-- ✅ Skills (Unordered List)
-- ✅ Hobbies (Ordered List)
-- ✅ External Links (GitHub & LinkedIn)
-- ✅ Footer Section
+* HTML5
 
 ---
 
-## 📚 Concepts Practiced
+## Features Implemented
 
-- Basic HTML document structure
-- Headings (`<h1>`, `<h2>`, `<h3>`)
-- Paragraphs (`<p>`)
-- Images (`<img>`)
-- Hyperlinks (`<a>`)
-- Unordered Lists (`<ul>`)
-- Ordered Lists (`<ol>`)
-- Horizontal Rule (`<hr>`)
+* Structured resume layout
+* Use of headings and paragraphs
+* Tables for organizing information
+* Lists for skills and details
 
 ---
 
-## 🎯 Learning Outcome
+## Learning Outcome
 
-Through this assignment, I learned:
-- How to create a basic webpage
-- How to structure content using HTML tags
-- How to add images and hyperlinks
-- The difference between ordered and unordered lists
-
----
-
-## 👩‍💻 Author
-
-Harshitha D  
-Computer Science Engineering Student  
-Passionate about Web Development and Software Development
-
----
-
-⭐ This is my first step towards becoming a frontend developer!
+This assignment helped me understand how to structure a webpage and organize information using HTML elements effectively.
