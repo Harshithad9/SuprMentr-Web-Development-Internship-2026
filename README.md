@@ -4,15 +4,15 @@
 
 Welcome to my **8th Semester Web Development Internship Repository**.
 
-This repository contains all assignments and practical implementations completed during my internship as part of my **Information Science & Engineering** degree.
+This repository contains all assignments and practical implementations completed during my internship as part of my **Information Science & Engineering degree**.
 
 ---
 
 ## 👩‍💻 About Me
 
-   **Harshitha D**
-- Final Year – Computer Science & Engineering
-- Aspiring Software Developer | Web Development Enthusiast
+**Harshitha D**
+Final Year – Computer Science & Engineering
+Aspiring Software Developer | Web Development Enthusiast
 
 This internship focuses on strengthening my **frontend fundamentals** and understanding **core web development concepts**.
 
@@ -25,6 +25,8 @@ This internship focuses on strengthening my **frontend fundamentals** and unders
 * JavaScript (ES6)
 * React.js
 * Node.js
+* Express.js
+* MongoDB
 * Git & GitHub
 * VS Code
 
@@ -43,7 +45,7 @@ This internship focuses on strengthening my **frontend fundamentals** and unders
 #### ✅ Assignment 2 – Basic HTML Web Page
 
 * Created a structured HTML resume webpage
-* Practiced headings, tables, lists, and semantic elements
+* Practiced semantic HTML elements
 
 #### ✅ Assignment 3 – My First Website
 
@@ -52,15 +54,15 @@ This internship focuses on strengthening my **frontend fundamentals** and unders
 
 #### ✅ Assignment 4 – Make It Beautiful
 
-* Styled the webpage using CSS
-* Applied colors, fonts, borders, and spacing
-* Improved layout using box model
+* Styled webpage using CSS
+* Applied colors, fonts, borders, spacing
+* Used box model for layout
 
 #### ✅ Assignment 5 – Responsive Hero Page
 
-* Built a responsive landing section
-* Implemented Flexbox layout
-* Used media queries for mobile responsiveness
+* Built responsive landing section
+* Implemented Flexbox
+* Used media queries
 
 ---
 
@@ -68,21 +70,19 @@ This internship focuses on strengthening my **frontend fundamentals** and unders
 
 #### ✅ Assignment 6 – Console Challenge
 
-* Wrote JavaScript calculator programs
-* Executed logic inside browser console
-* Practiced arithmetic operations and user input
+* Implemented calculator logic
+* Practiced browser console execution
 
 #### ✅ Assignment 7 – Student Manager
 
-* Used arrays and objects to store student data
-* Calculated average marks
-* Displayed results using console
+* Used arrays and objects
+* Calculated averages
+* Displayed results
 
 #### ✅ Assignment 8 – Interactive Form
 
-* Built form with input validation
-* Displayed success/error messages
-* Improved user interaction
+* Implemented form validation
+* Displayed dynamic feedback
 
 ---
 
@@ -90,15 +90,14 @@ This internship focuses on strengthening my **frontend fundamentals** and unders
 
 #### ✅ Assignment 9 – Component Hunt
 
-* Analyzed structure of a website
 * Broke UI into reusable components
-* Sketched layout for better understanding
+* Understood component-based design
 
 #### ✅ Assignment 16 – Product Listing UI
 
-* Built mini e-commerce frontend
-* Implemented product filtering
-* Designed responsive UI
+* Built e-commerce UI
+* Implemented filtering
+* Designed responsive layout
 
 ---
 
@@ -106,27 +105,23 @@ This internship focuses on strengthening my **frontend fundamentals** and unders
 
 #### ✅ Assignment 10 – Mood Tracker
 
-* Built mood selection app
-* Used React `useState`
-* Updated UI dynamically
+* Used React hooks (`useState`)
+* Built interactive UI
 
 #### ✅ Assignment 11 – Weather Dashboard
 
-* Fetched real-time weather data
-* Integrated public API
-* Handled loading and error states
+* Integrated API
+* Handled loading/error states
 
 #### ✅ Assignment 12 – Dynamic List App
 
-* Built task manager using hooks
-* Added and deleted tasks dynamically
-* Managed state efficiently
+* Implemented add/delete functionality
+* Managed state
 
 #### ✅ Assignment 13 – Multi-Page App
 
-* Implemented React Router
-* Created SPA navigation
-* Enabled seamless page transitions
+* Used React Router
+* Built SPA navigation
 
 ---
 
@@ -134,9 +129,9 @@ This internship focuses on strengthening my **frontend fundamentals** and unders
 
 #### ✅ Assignment 14 – Smart Signup Form
 
-* Implemented email validation
-* Added password strength checks
-* Displayed dynamic feedback
+* Email validation
+* Password strength checks
+* Dynamic error handling
 
 ---
 
@@ -144,15 +139,33 @@ This internship focuses on strengthening my **frontend fundamentals** and unders
 
 #### ✅ Assignment 15 – Folder Architect
 
-* Organized folder structure
-* Understood file system handling
-* Resolved file operation issues
+* Organized project structure
+* Managed file system operations
 
 #### ✅ Assignment 17 – Hello Server
 
-* Built Node.js HTTP server
+* Built Node.js server
 * Implemented routing
-* Handled 404 responses
+
+#### ✅ Assignment 18 – Route Master
+
+* Built Express routes for books & authors
+* Structured API using modular routing
+
+#### ✅ Assignment 19 – Task API
+
+* Created CRUD APIs for task management
+* Tested endpoints using Postman
+
+#### ✅ Assignment 20 – MVC Refactor
+
+* Refactored project into MVC architecture
+* Separated models, views, controllers
+
+#### ✅ Assignment 21 – Data Modeler
+
+* Designed MongoDB schema for blogging platform
+* Structured collections and relationships
 
 ---
 
@@ -160,24 +173,24 @@ This internship focuses on strengthening my **frontend fundamentals** and unders
 
 Through this internship, I have:
 
-* Strengthened HTML structure fundamentals
-* Improved CSS styling and responsive design
-* Practiced JavaScript logic and DOM manipulation
-* Built interactive applications using React
-* Integrated APIs and handled asynchronous data
-* Learned Node.js backend basics
-* Gained hands-on experience with Git & GitHub
-* Improved project structuring and organization
+* Strengthened HTML & CSS fundamentals
+* Built responsive and interactive UI
+* Practiced JavaScript and DOM manipulation
+* Developed React-based applications
+* Integrated APIs and handled async operations
+* Built backend using Node.js & Express
+* Designed REST APIs and followed MVC architecture
+* Learned MongoDB schema design
+* Improved Git & GitHub workflow
 
 ---
 
 ## 🚀 Future Enhancements
-
-* Add advanced JavaScript interactivity
-* Improve UI/UX design of all projects
-* Deploy projects using GitHub Pages / Vercel
-* Convert projects into full-stack applications
-* Integrate database (MongoDB)
+* Build full-stack applications (MERN)
+* Improve UI/UX design
+* Deploy projects (Vercel / Netlify)
+* Add authentication & authorization
+* Implement real-time features
 
 ---
 
