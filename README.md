@@ -16,10 +16,10 @@ This repository contains all assignments and practical work completed during my 
 
 ## Tech Stack
 
-**Frontend:** HTML5, CSS3, JavaScript (ES6), React.js
-**Backend:** Node.js, Express.js
-**Database:** MongoDB
-**Tools:** Git, GitHub, VS Code
+- **Frontend:** HTML5, CSS3, JavaScript (ES6), React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
