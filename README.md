@@ -30,7 +30,7 @@ This repository contains all assignments and practical work completed during my 
 * Assignment 09 & 16 → UI Design and Components
 * Assignment 10 – 13 → React Applications
 * Assignment 14 → Form Validation
-* Assignment 15 – 25 → Backend Development (Node.js, Express, APIs, MVC, MongoDB)
+* Assignment 15 – 25 → Backend Development (Node.js, Express, APIs, MVC, MongoDB, Authentication)
 
 ---
 
